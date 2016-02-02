@@ -4,7 +4,8 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
 <br>Introduction about the subject "DISMATH(Discrete Mathematics)"
 <br>Proposition - a declarative statement which should be either true (1) or false(2); however, cannot be both.
 <br>Logical Connectives and its usage.
-+| Logical Symbol  |  Logical Operator | Shorthand | Formula | Logical Expression |
+-| Operator  |  Symbol | Usage | Formula | Logical Expression |
+ +| Logical Symbol  |  Logical Operator | Shorthand | Formula | Logical Expression |
   | :-----: |:-------:|:-----:| :-------: | :-------: |
   | ¬ |Negation | not | val(¬p) = 1 - val(p) | ¬p |
   | ∧ | Conjunction | and | val(p ∧ q) = min(val(p), val(q)) | p ∧ q |
