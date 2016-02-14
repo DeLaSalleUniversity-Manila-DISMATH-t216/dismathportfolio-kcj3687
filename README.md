@@ -64,10 +64,25 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
      2. Show that q is also **TRUE**
  
 #Week 4
--Learned other types of **Mehods of Proof**
-- **Contraposition/Indirect Proof**
-     - ¬Q → ¬P
-     1. Assume ¬q is **TRUE**
+-Learned other types of **Mehods of Proof**.
+   - **Contraposition/Indirect Proof**
+     ¬Q → ¬P
+     1. Assume ¬q is **TRUE**.
      2. Show that ¬P must be **TRUE**.
 
-- 
+   - **Vacuous Proof**
+     ¬P → (P → Q)
+     1. Show that P is **FALSE** .
+     2. Because P → Q must be true when p is **FALSE**.
+
+   - **Trivial Proof**
+     Q → (P → Q)
+     1. Show that Q is **TRUE**.
+     2. It follows that P → Q must also be **TRUE**.
+  
+   - **Proof by Contradiction**.
+     ¬(Premise) = T
+     1. Assume that the premise is not **TRUE**
+     2. Show that the premise will end up in a contradiction.
+  
+- Learned the definition of a rational number which is {a/b | a, b ∈ ℤ, b≠0, a & b have no common factors other than ±1}.
