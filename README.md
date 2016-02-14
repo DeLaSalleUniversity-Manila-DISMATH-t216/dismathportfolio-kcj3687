@@ -43,7 +43,7 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
   - **Universal Quantifier** (∀x) 
   "For all"
 
-#Week3
+#Week43
 -We learned **Rules of Inference**
 
 |          Name          |   Rules of Inference       |            Tautology           |
@@ -63,3 +63,11 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
      1. Assume p is **TRUE**
      2. Show that q is also **TRUE**
  
+#Week 4
+-Learned other types of **Mehods of Proof**
+- **Contraposition/Indirect Proof**
+     - ¬Q → ¬P
+     1. Assume ¬q is **TRUE**
+     2. Show that ¬P must be **TRUE**.
+
+- 
