@@ -3,7 +3,9 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
 
 #Week1
 -Introduction about the subject "DISMATH(Discrete Mathematics)"<br>
+-DISMATH is all about **Proposition**, **Proof**, **Logical Deduction**, and **Axioms**
 -Proposition which is a declarative statement which should be either true (1) or false(2); however, cannot be both.<br>
+-The several types of **TRUTH** which are **Legal Truth**, **Authorative Truth**, **Scientific Truth**, **Probable Truth**, and **Philosophical Truth**
 -Logical Connectives and its usage.<br>
 
 | Logical Symbol  |  Logical Operator | Shorthand | Formula | Logical Expression |
