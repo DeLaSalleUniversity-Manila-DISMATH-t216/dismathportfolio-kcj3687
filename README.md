@@ -1,7 +1,7 @@
 # dismathportfolio-kcj3687
 dismathportfolio-kcj3687 created by Classroom for GitHub
 
-#Week1
+#Week 1
 -Introduction about the subject **"DISMATH(Discrete Mathematics)"**<br>
 -DISMATH is all about **Proposition**, **Proof**, **Logical Deduction**, and **Axioms**<br>
 -Proposition which is a declarative statement which should be either true (1) or false(2); however, cannot be both.<br>
@@ -19,7 +19,7 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
 
 -Using the truth table
 
-#Week2
+#Week 2
 - learned a set of laws and rules for DIAMATH called **Logical Equivalences**.<br>
 
 |                           Equivalence                          |         Name        |
@@ -43,7 +43,7 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
   - **Universal Quantifier** (∀x) 
   "For all"
 
-#Week43
+#Week 3
 -We learned **Rules of Inference**
 
 |          Name          |   Rules of Inference       |            Tautology           |
