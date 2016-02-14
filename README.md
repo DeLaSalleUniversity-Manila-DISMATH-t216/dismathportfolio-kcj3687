@@ -2,11 +2,11 @@
 dismathportfolio-kcj3687 created by Classroom for GitHub
 
 #Week1
--Introduction about the subject "DISMATH(Discrete Mathematics)"<br>
+-Introduction about the subject **"DISMATH(Discrete Mathematics)"**<br>
 -DISMATH is all about **Proposition**, **Proof**, **Logical Deduction**, and **Axioms**<br>
 -Proposition which is a declarative statement which should be either true (1) or false(2); however, cannot be both.<br>
 -The several types of **TRUTH** which are **Legal Truth**, **Authorative Truth**, **Scientific Truth**, **Probable Truth**, and **Philosophical Truth**<br>
--Logical Connectives and its usage.<br>
+-**Logical Connectives** and its usage.<br>
 
 | Logical Symbol  |  Logical Operator | Shorthand | Formula | Logical Expression |
 | :-----: |:-------:|:-----:| :-------: | :-------: |
@@ -20,7 +20,7 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
 -Using the truth table
 
 #Week2
-- learned a set of laws and rules for DIAMATH called Logical Equivalences.<br>
+- learned a set of laws and rules for DIAMATH called **Logical Equivalences**.<br>
 
 |                           Equivalence                          |         Name        |
 |:--------------------------------------------------------------:|:-------------------:|
@@ -38,15 +38,27 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
 -Proved that SUPERMAN does not exist.<br>
 -The predicate Logic which is concerned not only with logic relations betwwen sentences or propositions as WHOLES, but also their internal structure in terms of subject and predicate.<br>
 -Qualifiers indicates the generality of the open sentece in which a variable counts.<br>
-  - Extential Quantifier
+  - **Extential Quantifier** (∃x) 
   "There exist"
-  - Universal Quantifier
+  - **Universal Quantifier** (∀x) 
   "For all"
 
 #Week3
+-We learned **Rules of Inference**
 
--Mehods of Proof
-   - Direct Proof
-   - Indirect Proof 
-   - Vacuous Proof
-   - Trivial Proof
+|          Name          |   Rules of Inference       |            Tautology           |
+|:---------------------: |:-------------------------:|:-----------------------------:|
+|      Modus Ponens      |       p<br>p→q<br>∴q      |        (p ∧ (p → q)) → q       |
+|      Modus Tollens     |     ¬q<br>p→q<br>∴ ¬p     |       (¬q ∧ (p → q)) → ¬p      |
+| Hypothetical Syllogism |     p→q<br>q→r<br>∴p→r    |  ((p → q) ∧ (q → r)) → (p → r) |
+|  Disjunctive Syllogism |      p∨q<br>¬p<br>∴q      |       ((p ∨ q) ∧ ¬p) → q       |
+|        Addition        |       p<br>∴p ∨ q         |           p → (p ∨ q)          |
+|      Simplication      |       p ∧ q<br>∴p         |           (p ∧ q) → p          |
+|       Conjunction      |      p<br>q<br>∴p ∧ q     |      ((p) ∧ (q)) → (p ∧ q)     |
+|       Resolution       | p ∨ q<br>¬p ∨ r<br>∴q ∨ r | ((p ∨ q) ∧ (¬p ∨ r)) → (q ∨ r) |
+
+-Also learned **Mehods of Proof**, and its first type which is
+   - **Direct Proof**
+     1. Assume p is **TRUE**
+     2. Show that q is also **TRUE**
+ 
