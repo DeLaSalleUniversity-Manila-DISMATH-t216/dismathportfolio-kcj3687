@@ -86,3 +86,16 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
      2. Show that the premise will end up in a contradiction.
   
 - Learned the definition of a rational number which is {a/b | a, b ∈ ℤ, b≠0, a & b have no common factors other than ±1}.
+
+#Week 5
+   - **Proof by Equivalence**(Biconditionals)
+     (P ↔ Q) ↔ [(P → Q) ∧ (Q → P)]
+     1. Show that P → Q .
+     2. Q → P are both **TRUE**.
+ - The new lesson **Mathematical Induction**.
+   - Two steps of Mathematical Induction.
+    - Basis
+      - Show that P(1) or P(0) to be **True**
+    - Direct Proof
+      - Asumme P(k) ≡ T
+      - Show P(k+1) ≡ T
