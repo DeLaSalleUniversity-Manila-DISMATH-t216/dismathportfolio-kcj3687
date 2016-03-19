@@ -127,7 +127,7 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
   (p ∧ _¬condition_) {S<sub>2</sub>} q </br>
     ∴ p {*if* _condition_ *then* _S<sub>1</sub>_ *else* _S<sub>2</sub>_} q
 
-Week 7
+#Week 7
 **Set Theory**
    - A set is an unordered collection of distince objects, which may be anything (including other sets).
    **Set Identities Table**
