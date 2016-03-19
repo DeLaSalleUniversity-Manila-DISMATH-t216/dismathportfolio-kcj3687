@@ -104,17 +104,18 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
 #Week 6
 #Week 7
 #Week 8
-**Algorithms** - A finite set of precise instructions for performing a computation or for solving a problem.
-   Properties of Algorithms.
-     - **Input** - An algorithm has input values from a specified set.
-     - **Output** - From each set of input values an algorithm produces output values from a specified set. 
-     - **Definiteness** - The steps of an algorithm must be defined precisely.
-     - **Correctness** - An algorithm should produce the correct output values for each set of input values.
-     - **Finiteness** - An algorithm should produce the desired output after a finite number of steps.
-     - **Generality** - The procedure should be applicable for all problems of the desired form, not just for a particular set of input.
-**Pseudocode** - High - level description of an algorithm that uses the structural conventions of a programming language, but is inteded for human reading.
-   - **Preconditions** - Statements that describe valid input.
-   - **Postconditions** - Conditions that the output should satisfy when the program has run.
+**Algorithms** - A finite set of precise instructions for performing a computation or for solving a problem.<br>
+   Properties of Algorithms.<br>
+     - **Input** - An algorithm has input values from a specified set.<br>
+     - **Output** - From each set of input values an algorithm produces output values from a specified set. <br>
+     - **Definiteness** - The steps of an algorithm must be defined precisely.<br>
+     - **Correctness** - An algorithm should produce the correct output values for each set of input values.<br>
+     - **Finiteness** - An algorithm should produce the desired output after a finite number of steps.<br>
+     - **Generality** - The procedure should be applicable for all problems of the desired form, not just for a particular set of input.<br>
+**Pseudocode** - High - level description of an algorithm that uses the structural conventions of a programming language, but is inteded for human reading.<br>
+   - **Preconditions** - Statements that describe valid input.<br>
+   - **Postconditions** - Conditions that the output should satisfy when the program has run.<br>
+
 #Week 9
 **Searching Algorithm** - The Problem of locationg an algorithm in an ordered list.
    - Linear Search Algorithm.<br>
