@@ -105,11 +105,11 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
 #Week 7
 #Week 8
 #Week 9
- **Searching Algorithm** - The Problem of locationg an algorithm in an ordered list.
+**Searching Algorithm** - The Problem of locationg an algorithm in an ordered list.
    - Linear Search Algorithm.<br>
    - Binary Search Algorithm.<br>
 
- **Sorting Algorithms** - The problem of putting elements in increasing order.
+**Sorting Algorithms** - The problem of putting elements in increasing order.
    - Bubble Sort Algorithm.<br>
    - Insertion Sort Algorithm.<br>
 
@@ -122,7 +122,8 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
   - C (Constant Multipier) and k (Number of input values) are called **witnesses**.
   **Complexity of Algorithms**
    - 
-  **Division and Modulo Operator**
+  
+**Division and Modulo Operator**
    - Let **a** be an interger and **d** a positive interger. Then where is a unique **Q** and **r**, with 0 ≤ r < d that a = dQ + r.<br>
     Q = a div d<br>
     r = a mod d<br>
