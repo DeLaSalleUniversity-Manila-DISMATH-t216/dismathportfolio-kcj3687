@@ -108,6 +108,7 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
  **Searching Algorithm** - The Problem of locationg an algorithm in an ordered list.
    - Linear Search Algorithm.<br>
    - Binary Search Algorithm.<br>
+
  **Sorting Algorithms** - The problem of putting elements in increasing order.
    - Bubble Sort Algorithm.<br>
    - Insertion Sort Algorithm.<br>
