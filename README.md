@@ -101,19 +101,19 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
       - Show P(k+1) ≡ T
 
 #Week 6
-- **SUMMATION** - notation for sum of am, am+1, ..., an is ∑ai=m ai where i is the index of summation.
+**SUMMATION** - notation for sum of am, am+1, ..., an is ∑ai=m ai where i is the index of summation.
   - Σ “sigma”
-  - 
-- **RECURSIVE/INDUCTIVE DEFINITION**
+
+**RECURSIVE/INDUCTIVE DEFINITION**
   - 1. Basis step: specify the value at zero
   - 2. Recursive step: Find a rule for finding its value at an integer number from the values at smaller integers.
   - example: f(0) = 3, f(n+1) = 2f(n) + 3
-  - 
-- **Recursive Algorithms** - An algorithm is called recursive if it solves a problem by reducing it to an instance of the same problem with smaller output. 
-- 
-- **Hoare Triple** - A program, or program segment, **S** is said to be partially correct with respect to the initial assertion **p** and the final assertion **q** if whenever **p** is true for the input values of **S** and **S** terminates, then **q** is true for the output values of **S**.
-- 
-- **Rules of Inference** - A useful rule of inference proves that a program is correct by splitting the program into a series of subprograms and then showing that each subprogram is correct.
+
+**Recursive Algorithms** - An algorithm is called recursive if it solves a problem by reducing it to an instance of the same problem with smaller output. 
+
+**Hoare Triple** - A program, or program segment, **S** is said to be partially correct with respect to the initial assertion **p** and the final assertion **q** if whenever **p** is true for the input values of **S** and **S** terminates, then **q** is true for the output values of **S**.
+
+**Rules of Inference** - A useful rule of inference proves that a program is correct by splitting the program into a series of subprograms and then showing that each subprogram is correct.
 - 
 
 
