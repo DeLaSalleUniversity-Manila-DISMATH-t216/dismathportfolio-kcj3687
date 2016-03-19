@@ -103,15 +103,42 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
 
 #Week 6
 #Week 7
+**Set Theory**
+   - A set is an unordered collection of distince objects, which may be anything (including other sets).
+   **Set Identities Table**
+
+|  **LAW**  |  **IDENTITY**  |
+| :------: | :-----------------------------: |
+|  Identity Laws  |  A ⋂ U ≡ A  <br>  A ⋃ ∅ ≡ A  |
+|  Domination Laws  |  A ⋃ U ≡ U  <br>  A ⋂ ∅ ≡ ∅  |
+|  Idempotent Laws  |  A ⋃ A ≡ A  <br>  A ⋂ A ≡ A  |
+|  Complementation Law  |  (A¯)‾ ≡ A  |
+|  Commutative Laws  |  A ⋃ B ≡ B ⋃ A  <br>  A ⋂ B ≡ B ⋂ A  |
+|  Associative Laws  |  A ⋃ (B ⋃ C) ≡ (A ⋃ B) ⋃ C  <br>  A ⋂ (B ⋂ C) ≡ (A ⋂ B) ⋂ C  |
+|  Distributive Laws  |  A ⋃ (B ⋂ C) ≡ (A ⋃ B) ⋂ (A ⋃ C) <br>  A ⋂ (B ⋃ C) ≡ (A ⋂ B) ⋃ (A ⋂ C)  |
+|  De Morgan's Laws  |  (A ⋂ B)‾ ≡ A‾ ⋃ B‾  <br>  (A ⋃ B)‾ ≡ A‾ ⋂ B‾  |
+|  Absorption Laws  |  A ⋃ (A ⋂ B) ≡ A  <br>  A ⋂ (A ⋃ B) ≡ A  |
+|  Complement Laws  |  A ⋃ A‾ ≡ U  <br>  A ⋂ A‾ ≡ ∅  |
+
+  - A set S is a subset of a set T (denotes S ⊆ T) if all elements of S are also elements of T
+  - Example:  ℕ ⊆ ℤ (every natural number is an integer)
+- POWER SET P(S) = {T|T ⊆ S} - A set of all subsets.
+- CARDINALITY |S| - The number of element it contains
+    - Infinite Cardinalities - alaph-null (0,1,2,3,...)
+
+**Venn Diagrams**
+
+****
 #Week 8
 **Algorithms** - A finite set of precise instructions for performing a computation or for solving a problem.<br>
-   Properties of Algorithms.<br>
+     Properties of Algorithms.
      - **Input** - An algorithm has input values from a specified set.<br>
      - **Output** - From each set of input values an algorithm produces output values from a specified set. <br>
      - **Definiteness** - The steps of an algorithm must be defined precisely.<br>
      - **Correctness** - An algorithm should produce the correct output values for each set of input values.<br>
      - **Finiteness** - An algorithm should produce the desired output after a finite number of steps.<br>
      - **Generality** - The procedure should be applicable for all problems of the desired form, not just for a particular set of input.<br>
+
 **Pseudocode** - High - level description of an algorithm that uses the structural conventions of a programming language, but is inteded for human reading.<br>
    - **Preconditions** - Statements that describe valid input.<br>
    - **Postconditions** - Conditions that the output should satisfy when the program has run.<br>
