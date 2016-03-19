@@ -106,11 +106,11 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
 #Week 8
 #Week 9
  **Searching Algorithm** - The Problem of locationg an algorithm in an ordered list.
-   - Linear Search Algorithm.
-   - Binary Search Algorithm.
+   - Linear Search Algorithm.<br>
+   - Binary Search Algorithm.<br>
  **Sorting Algorithms** - The problem of putting elements in increasing order.
-   - Bubble Sort Algorithm.
-   - Insertion Sort Algorithm.
+   - Bubble Sort Algorithm.<br>
+   - Insertion Sort Algorithm.<br>
 
 #Week 10
  **Greedy Algorithms** - algorithms that make what seems to be the “best” choice at each step
@@ -122,7 +122,7 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
   **Complexity of Algorithms**
    - 
   **Division and Modulo Operator**
-   - Let **a** be an interger and **d** a positive interger. Then where is a unique **Q** and **r**, with 0 ≤ r < d that a = dQ + r.
+   - Let **a** be an interger and **d** a positive interger. Then where is a unique **Q** and **r**, with 0 ≤ r < d that a = dQ + r.<br>
     Q = a div d<br>
     r = a mod d<br>
    -
