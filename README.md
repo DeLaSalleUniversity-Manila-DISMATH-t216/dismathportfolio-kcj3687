@@ -99,3 +99,23 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
     - Direct Proof
       - Asumme P(k) ≡ T
       - Show P(k+1) ≡ T
+
+
+#Week 6
+#Week 7
+#Week 8
+#Week 9
+  **Greedy Algorithms** - algorithms that make what seems to be the “best” choice at each step
+  - **Growth of Functions**
+     - **Big-O Notation** - Let f and g be functions from the set of integers or the set of real numbers to the set of real numbers. We say that f(x) is O(g(x)) if there are constants C and k such that |f (x)| ≤ C|g(x)| whenever x > k. It provides the upper bound for the size of f(x)
+     - **Big-Omega Notation** - Let f and g be functions from the set of integers or the set of real numbers to the set of real numbers. We say that f(x) is 􏰰(g(x)) if there are positive constants C and k such that |f(x)| ≥ C|g(x)| whenever x > k. It provides the lower bound for the size of f(x).
+     - **Big-Theta Notation** - It provides upper and lower bound.
+  - C (Constant Multipier) and k (Number of input values) are called **witnesses**.
+  **Complexity of Algorithms**
+   - 
+  **Division and Modulo Operator**
+   - Let **a** be an interger and **d** a positive interger. Then where is a unique **Q** and **r**, with 0 ≤ r < d that a = dQ + r
+    Q = a div d 
+    r = a mod d
+   -
+
