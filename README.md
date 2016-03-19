@@ -100,9 +100,24 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
       - Asumme P(k) ≡ T
       - Show P(k+1) ≡ T
 
-
 #Week 6
-#Week 7
+- **SUMMATION** - notation for sum of am, am+1, ..., an is ∑ai=m ai where i is the index of summation.
+  - Σ “sigma”
+  - 
+- **RECURSIVE/INDUCTIVE DEFINITION**
+  - 1. Basis step: specify the value at zero
+  - 2. Recursive step: Find a rule for finding its value at an integer number from the values at smaller integers.
+  - example: f(0) = 3, f(n+1) = 2f(n) + 3
+  - 
+- **Recursive Algorithms** - An algorithm is called recursive if it solves a problem by reducing it to an instance of the same problem with smaller output. 
+- 
+- **Hoare Triple** - A program, or program segment, **S** is said to be partially correct with respect to the initial assertion **p** and the final assertion **q** if whenever **p** is true for the input values of **S** and **S** terminates, then **q** is true for the output values of **S**.
+- 
+- **Rules of Inference** - A useful rule of inference proves that a program is correct by splitting the program into a series of subprograms and then showing that each subprogram is correct.
+- 
+
+
+Week 7
 **Set Theory**
    - A set is an unordered collection of distince objects, which may be anything (including other sets).
    **Set Identities Table**
@@ -120,18 +135,25 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
 |  Absorption Laws  |  A ⋃ (A ⋂ B) ≡ A  <br>  A ⋂ (A ⋃ B) ≡ A  |
 |  Complement Laws  |  A ⋃ A‾ ≡ U  <br>  A ⋂ A‾ ≡ ∅  |
 
-  - A set S is a subset of a set T (denotes S ⊆ T) if all elements of S are also elements of T
-  - Example:  ℕ ⊆ ℤ (every natural number is an integer)
-- POWER SET P(S) = {T|T ⊆ S} - A set of all subsets.
-- CARDINALITY |S| - The number of element it contains
-    - Infinite Cardinalities - alaph-null (0,1,2,3,...)
+  - A set S is a subset of a set T (denotes S ⊆ T) if all elements of S are also elements of T<br>
+  - Example:  ℕ ⊆ ℤ (every natural number is an integer)<br>
+- POWER SET P(S) = {T|T ⊆ S} - A set of all subsets.<br>
+- CARDINALITY |S| - The number of element it contains<br>
+    - Infinite Cardinalities - alaph-null (0,1,2,3,...)<br>
 
 **Venn Diagrams**
 
-****
+**Functions**<br>
+   - Let A and B be sets. A function f from A to B is an assignment of exactly one element of B to each element of A.<br>
+   - Functions are also called **mappings** or **transformations**.<br>
+   **Types of Functions**<br>
+     **One - to - one Function (Injection)** - functions that never assign the same value to two different domain elements.<br>
+     **Onto Function (Surjective)** - functions have equal range & co-domain.<br>
+     **One - to - one Correspondence (Bijection)** - function is both one - to - one and onto.<br>
+
 #Week 8
 **Algorithms** - A finite set of precise instructions for performing a computation or for solving a problem.<br>
-     Properties of Algorithms.
+     Properties of Algorithms.<br>
      - **Input** - An algorithm has input values from a specified set.<br>
      - **Output** - From each set of input values an algorithm produces output values from a specified set. <br>
      - **Definiteness** - The steps of an algorithm must be defined precisely.<br>
@@ -158,7 +180,7 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
      - **Big-O Notation** - Let f and g be functions from the set of integers or the set of real numbers to the set of real numbers. We say that f(x) is O(g(x)) if there are constants C and k such that |f (x)| ≤ C|g(x)| whenever x > k. It provides the upper bound for the size of f(x)
      - **Big-Omega Notation** - Let f and g be functions from the set of integers or the set of real numbers to the set of real numbers. We say that f(x) is 􏰰(g(x)) if there are positive constants C and k such that |f(x)| ≥ C|g(x)| whenever x > k. It provides the lower bound for the size of f(x).
      - **Big-Theta Notation** - It provides upper and lower bound.
-  - C (Constant Multipier) and k (Number of input values) are called **witnesses**.
+  - C (Constant Multipier) and k (Number of input values) are called **witnesses**.<br>
   **Complexity of Algorithms**
    - 
   
