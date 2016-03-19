@@ -118,11 +118,11 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
  p{S1}q </br>
   q{S2}r </br>
    ∴ p{S1;S2)r <br>
-  - *CONDITIONAL STATEMENTS* </br>
+ - *CONDITIONAL STATEMENTS* </br>
   (p ∧ _condition_) {S} q </br>
   (p ∧ _¬condition_) → q </br>
     ∴ p {**if** _condition_ **then** _S_} q
-  - *IF-ELSE STATEMENT* </br>
+ - *IF-ELSE STATEMENT* </br>
   (p ∧ _condition_) {S<sub>1</sub>} q </br>
   (p ∧ _¬condition_) {S<sub>2</sub>} q </br>
     ∴ p {*if* _condition_ *then* _S<sub>1</sub>_ *else* _S<sub>2</sub>_} q
