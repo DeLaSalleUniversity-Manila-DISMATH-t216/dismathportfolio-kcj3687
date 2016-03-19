@@ -114,8 +114,18 @@ dismathportfolio-kcj3687 created by Classroom for GitHub
 **Hoare Triple** - A program, or program segment, **S** is said to be partially correct with respect to the initial assertion **p** and the final assertion **q** if whenever **p** is true for the input values of **S** and **S** terminates, then **q** is true for the output values of **S**.
 
 **Rules of Inference** - A useful rule of inference proves that a program is correct by splitting the program into a series of subprograms and then showing that each subprogram is correct.
-- 
-
+ - *COMPOSITION RULE* </br>
+ p{S1}q </br>
+  q{S2}r </br>
+   ∴ p{S1;S2)r <br>
+  - *CONDITIONAL STATEMENTS* </br>
+  (p ∧ _condition_) {S} q </br>
+  (p ∧ _¬condition_) → q </br>
+    ∴ p {**if** _condition_ **then** _S_} q
+  - *IF-ELSE STATEMENT* </br>
+  (p ∧ _condition_) {S<sub>1</sub>} q </br>
+  (p ∧ _¬condition_) {S<sub>2</sub>} q </br>
+    ∴ p {*if* _condition_ *then* _S<sub>1</sub>_ *else* _S<sub>2</sub>_} q
 
 Week 7
 **Set Theory**
